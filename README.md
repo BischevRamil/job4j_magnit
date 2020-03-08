@@ -3,5 +3,4 @@
 
 [![codecov](https://codecov.io/gh/BischevRamil/job4j_magnit/branch/master/graph/badge.svg)](https://codecov.io/gh/BischevRamil/job4j_magnit)
 
-
 # job4j_magnit
